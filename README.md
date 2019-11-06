@@ -13,7 +13,7 @@ class task
 
    [ecb加密](sm4/encrptPku_ecb.jpg)
 
-   cbc[加密](sm4/encrptPku_cbc.jpg)
+   [cbc加密](sm4/encrptPku_cbc.jpg)
 
 ## 第三次作业
 
