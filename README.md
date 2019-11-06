@@ -5,9 +5,15 @@ class task
 
 ### sm4加密
 
-1. Sm4加密可逆证明
-2. sm4加密 python实现
+1. [Sm4加密可逆证明](sm4/Sm4可逆证明.pdf)
+
+2. [sm4加密 python实现](sm4/sm4DePic.py)
+
 3. sm4加密图片结果
+
+   [ecb加密](sm4/encrptPku_ecb.jpg)
+
+   cbc[加密](sm4/encrptPku_cbc.jpg)
 
 ## 第三次作业
 
